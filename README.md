@@ -1,4 +1,4 @@
 # programsdemo
 examples of dsa
 <br>hello
-<h1>author - gauri wagh</h1>
+<h1>author - gauri Sanjeev wagh</h1>
